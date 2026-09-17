@@ -53,4 +53,4 @@ hello
 hello.s
 scheduler
 clay_test
-compiler
+./compiler
